@@ -1,0 +1,7 @@
+{
+  "name": "myGoodNews",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
